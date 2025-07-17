@@ -21,7 +21,7 @@
 ### 1. 克隆项目
 ```bash
 git clone <repository-url>
-cd adb-proxy-master
+cd adb-reverse-proxy
 ```
 
 ### 2. 安装依赖
